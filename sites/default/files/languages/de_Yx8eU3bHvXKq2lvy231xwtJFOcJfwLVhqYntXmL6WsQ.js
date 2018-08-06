@@ -1,0 +1,1 @@
+window.drupalTranslations = {"strings":{"":{"Image":"Bild","Link":"Link","Unlink":"Link entfernen","Edit Link":"Link bearbeiten"}},"pluralFormula":{"1":0,"default":1}};
