@@ -1,0 +1,6 @@
+custom_page:
+  path: 'custom_page'
+  defaults:
+    _controller: Drupal\custom_page\Controller\CustomPageController::custompage
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,7 @@
+showtext.show_text:
+  path: 'showtext'
+  defaults:
+    _entity_view: '\Drupal\showtext\Functional\LoadTest'
+    _title: 'Our cool form'
+  requirements:
+    _permission: 'access content'
